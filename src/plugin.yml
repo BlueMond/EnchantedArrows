@@ -1,0 +1,10 @@
+name: EnchantedArrows
+version: 1.0
+main: me.bluemond.enchantedarrows.EnchantedArrows
+authors: [BlueMond]
+api-version: 1.16
+commands:
+  enchantedarrows:
+    description: EnchantedArrows command
+    usage: /ea
+    aliases: [ea]
